@@ -2,7 +2,7 @@
 >Really quickly written for my use
 
 ## Overview
-This script provides an automated solution for cleaning up the inventory in Dungeon Defenders 2. It helps manage clutter and makes inventory management easier for players.
+This AutoHotkey script provides an automated solution for cleaning up the inventory in Dungeon Defenders 2. It helps manage clutter and makes inventory management easier for players.
 
 ![example](https://github.com/LupusJM/DD2_Inventory_Cleanup/assets/163419314/d3abd0a7-20ff-4775-b764-6fb080b161f6)
 
@@ -14,11 +14,11 @@ This script provides an automated solution for cleaning up the inventory in Dung
 ## Usage
 1. Clone the repository to your local machine.
 2. Run the script in your preferred environment.
-3. Follow the on-screen instructions to configure settings and initiate inventory cleaning.
+3. Run the script by double-clicking the `.ahk` file or through the AutoHotkey interpreter or press "End" key in game to run.
+4. Sell items with "S".
 
 ## Requirements
 1. Download and install AutoHotkey from [autohotkey.com](https://www.autohotkey.com/).
-2. Run the script by double-clicking the `.ahk` file or through the AutoHotkey interpreter or press "End" key in game to run.
 3. Dungeon Defenders 2 installed and running.
 
 ## Note
