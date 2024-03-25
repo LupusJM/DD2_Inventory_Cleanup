@@ -25,3 +25,5 @@ This script provides an automated solution for cleaning up the inventory in Dung
 
 - Ensure that you review and understand the script before usage, especially if it interacts with sensitive applications or games.
 - Customization of the script parameters, such as input buttons and repeat, speed intervals, can be done within the script itself for specific requirements.
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/lupusjm/DD2_Inventory_Cleanup/blob/main/LICENSE)
